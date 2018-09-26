@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Adding_HollandseZon_ToCart_Page_Productkeuze</name>
+   <tag></tag>
+   <elementGuidId>4d56221f-4a83-4437-a0e7-69739b2362fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'wt130_wtMainContent_SilkUIFramework_wt45_block_wtColumn1_wtProductList_ctl04_wt71_SilkUIFramework_wt1_block_wtContent_wtAddButton']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wt130_wtMainContent_SilkUIFramework_wt45_block_wtColumn1_wtProductList_ctl04_wt71_SilkUIFramework_wt1_block_wtContent_wtAddButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wt130_wtMainContent_SilkUIFramework_wt45_block_wtColumn1_wtProductList_ctl04_wt71_SilkUIFramework_wt1_block_wtContent_wtAddButton</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AddButton OSAutoMarginTop</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wt130_wtMainContent_SilkUIFramework_wt45_block_wtColumn1_wtProductList_ctl04_wt71_SilkUIFramework_wt1_block_wtContent_wtAddButton&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>//div[@id='wt130_wtMainContent_SilkUIFramework_wt45_block_wtColumn1_wtProductList_ctl04_wt71_SilkUIFramework_wt1_block_wtContent_wtAddButton']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='wt130_wtMainContent_SilkUIFramework_wt45_block_wtColumn1_wtProductList_ctl04_wt71_SilkUIFramework_wt1_block_wtContent_wtButtonBox']/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gratis StukjeZon, ter waarde van€49,59'])[3]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kies een stroom product'])[4]/preceding::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eneco StukjeZon™'])[1]/preceding::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[6]/div/div/div[5]/div/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
